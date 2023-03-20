@@ -29,4 +29,4 @@ resource "aws_launch_configuration" "config_of_ASG" {
   max_size             = 4
   desired_capacity     = 2
   }
-  
+  #@@@@@@@@@
