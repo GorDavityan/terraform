@@ -30,3 +30,5 @@ resource "aws_launch_configuration" "config_of_ASG" {
   desired_capacity     = 2
   }
   
+
+  #####
