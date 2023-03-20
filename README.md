@@ -1,2 +1,2 @@
 # terraform
-Terraform codes for my use
+Terraform codes
